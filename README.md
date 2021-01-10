@@ -1,4 +1,4 @@
-Work made by Flora Maier & Sarah Lascar, 4th year students of engineer school 5(ESILV, Paris).
+Work made by Flora Maier & Sarah Lascar, 4th year students of engineer school (ESILV, Paris).
 
 # Subject
 
