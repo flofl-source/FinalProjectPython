@@ -40,4 +40,4 @@ For the Caffeine, we obtained the best accuray (0.987097) thank to the KNN model
 
 ## Flask API
 
-As asked by our teachers, we create a Flask API, that can be runned by the app.py file. We added the heroin_example.py file that contains the values of the pramaters from a respondent. The goal of our API is to predict if this person already used heroin or not, by testing our 5 several models.
+As asked by our teachers, we create a Flask API, that can be runned by the app.py file. We added the heroin_example.py file that contains the values of the pramaters from a respondent. The goal of our API is to predict if this person already used heroin or not, using the Logistic Regression as an example.
